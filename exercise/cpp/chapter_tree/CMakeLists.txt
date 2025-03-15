@@ -1,0 +1,4 @@
+add_executable(binary_tree binary_tree.cpp)
+add_executable(binary_tree_bfs binary_tree_bfs.cpp)
+add_executable(binary_tree_dfs binary_tree_dfs.cpp)
+add_executable(array_binary_tree array_binary_tree.cpp)
